@@ -1,4 +1,4 @@
-Getting and Cleaning Data Course Project
+### Getting and Cleaning Data Course Project
 Tidying up the Samsung UCI HAR Dataset
 
 This is a course project in completion of the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
